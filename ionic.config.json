@@ -1,0 +1,10 @@
+{
+"defaultProject": "stroyka",
+  "projects": {
+    "stroyka": {
+      "name": "stroyka",
+      "integrations": {},
+      "type": "angular"
+    }
+  }
+}
